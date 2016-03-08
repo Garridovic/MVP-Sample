@@ -1,4 +1,4 @@
-package com.garridovic.myappmvp.presentation.ui.activities;
+package com.garridovic.myappmvp.ui.activities;
 
 import android.support.annotation.NonNull;
 import android.os.Bundle;
@@ -7,11 +7,12 @@ import android.widget.Button;
 import android.widget.TextView;
 
 
+import com.garridovic.myappmvp.R;
 import com.hannesdorfmann.mosby.mvp.MvpActivity;
 
-import com.garridovic.myappmvp.presentation.MainView;
-import com.garridovic.myappmvp.presentation.presenters.impl.MainViewPresenterImpl;
-import com.iliberi.myappmvp.R;
+import com.garridovic.myappmvp.MainView;
+import com.garridovic.myappmvp.presenters.impl.MainViewPresenterImpl;
+
 
 import java.util.List;
 

@@ -1,8 +1,8 @@
-package com.garridovic.myappmvp.presentation.presenters.impl;
+package com.garridovic.myappmvp.presenters.impl;
 
 import com.hannesdorfmann.mosby.mvp.MvpBasePresenter;
-import com.garridovic.myappmvp.presentation.MainView;
-import com.garridovic.myappmvp.presentation.presenters.MainViewPresenter;
+import com.garridovic.myappmvp.MainView;
+import com.garridovic.myappmvp.presenters.MainViewPresenter;
 
 import java.util.ArrayList;
 import java.util.List;
